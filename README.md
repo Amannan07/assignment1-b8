@@ -1,4 +1,5 @@
 src/solutions.ts
+
 The tasks completed here is practical understanding of core TypeScript concepts including basic types, optional/default/rest parameters, readonly tuples, interfaces, type narrowing, generics and Promises. A brief overview is as under:
 
 - TypeScript environment setup;
